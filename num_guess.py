@@ -28,8 +28,12 @@ def main():
             elif guess > target:
                 print("Too high!")
             else:
-                print(f"You guessed it in {num_guesses} tries.")
-                break
+                if num_guesses == 1:
+                    print("You guessed it in 1 try.")
+                    break
+                else:
+                    print(f"You guessed it in {num_guesses} tries.")
+                    break
 
     except ValueError:
         print("Invalid input! Please enter a valid integer.")

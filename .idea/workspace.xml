@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="150cefff-7e35-461f-9d9b-61c7c1ee8562" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project3c_E103.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num_guess.py" afterDir="false" />
+    <list default="true" id="150cefff-7e35-461f-9d9b-61c7c1ee8562" name="Changes" comment="number guessing game, completed all within main.">
+      <change beforePath="$PROJECT_DIR$/num_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/num_guess.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720335982392</updated>
     </task>
+    <task id="LOCAL-00001" summary="number guessing game, completed all within main.">
+      <option name="closed" value="true" />
+      <created>1720336773122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720336773122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="number guessing game, completed all within main." />
+    <option name="LAST_COMMIT_MESSAGE" value="number guessing game, completed all within main." />
   </component>
 </project>
