@@ -1,6 +1,6 @@
 # Author: Ashton Lee
 # Github User: ashton01L
-# Date: 7/7/2024
+# Date: 7/10/2024
 
 # Description: Write a program that prompts the user for an integer that the player
 # (maybe the user, maybe someone else) will try to guess.
